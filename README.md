@@ -8,7 +8,6 @@
 ### 📚 Education
 - 🎓 **BEng in Electronics and Computer Engineering** from The University of Sheffield (TUoS)
 - 🎓 **MSc in Communications and Signal Processing** from Imperial College London (ICL)
-  - 📍 London, United Kingdom
 
 ### 💞️ Let's Collaborate
 - If you have any interesting projects or ideas in the fields of **Electronics**, **AI**, or **Python**, I'd love to hear from you.
